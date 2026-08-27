@@ -1,0 +1,6 @@
+{
+  "name": "Karaoke Event Control",
+  "description": "A modern event and competition karaoke system with authoritative Audience screen playback, real-time Operator dashboard, queue management, and participant stage workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
